@@ -111,8 +111,3 @@ Me chamo Isaac Monteiro, tenho 20 anos e moro em Brasilia - DF. Atualmente curso
 
 </p>
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codemontteiro/codemontteiro/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codemontteiro/codemontteiro/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/codemontteiro/codemontteiro/output/github-contribution-grid-snake.svg">
-</picture>
