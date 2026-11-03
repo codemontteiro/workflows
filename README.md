@@ -10,7 +10,7 @@ Me chamo Isaac Monteiro, tenho 20 anos e moro em Brasilia - DF. Atualmente curso
  
 #
 
-<img align="right" alt="" height="190px" src="src/tumblr_18260486915a4d3b8a5f4b1a18e8cb58_28318fbb_500.gif">
+<img align="right" alt="" height="190px" src="src/scorpion-scorpion-stare.gif">
 
 <h3 align="left">Connect with me!</h3>
 
