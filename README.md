@@ -10,7 +10,7 @@ Me chamo Isaac Monteiro, tenho 20 anos e moro em Brasilia - DF. Atualmente curso
  
 #
 
-<img align="right" alt="" height="190px" src="src/thorfinn.gif">
+<img align="right" alt="" height="190px" src="src/thorfinn2.gif">
 
 <h3 align="left">Connect with me!</h3>
 
